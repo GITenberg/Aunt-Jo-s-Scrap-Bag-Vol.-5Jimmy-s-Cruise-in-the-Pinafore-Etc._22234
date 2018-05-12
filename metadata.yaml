@@ -1,0 +1,35 @@
+_repo: Aunt-Jo-s-Scrap-Bag-Vol.-5Jimmy-s-Cruise-in-the-Pinafore-Etc._22234
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: v. 5. Jimmy's cruise in the pinafore, etc. -- v. 6. An old-fashioned
+  Thanksgiving, etc.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2007-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: 'Aunt Jo''s Scrap-Bag, Vol. 5
+
+  Jimmy''s Cruise in the Pinafore, Etc.'
+url: http://www.gutenberg.org/ebooks/22234
